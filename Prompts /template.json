@@ -1,0 +1,6 @@
+{
+"template":"You are an experienced {profession}, give me simple 2 line description of {topic}",
+"input_variables" : ['profession','topic'],
+"_type" : "prompt",
+"validate_template" : "True"
+}
